@@ -1,25 +1,25 @@
 --INSERT STATEMENTS--
 
 INSERT INTO PERSON 
-VALUES ('845632190', 'John', 'Smith', '32', '04/21/92', 'M');
+VALUES ('845632190', 'John', 'Smith', '32', '04/21/92', 'M', '8178549999');
 INSERT INTO PERSON 
-VALUES ('306518742', 'Amelia', 'King', '33', '06/14/90', 'F');
+VALUES ('306518742', 'Amelia', 'King', '33', '06/14/90', 'F', '1234567890');
 INSERT INTO PERSON 
-VALUES ('729064815', 'Chris', 'Jones', '37', '07/19/86', 'M');
+VALUES ('729064815', 'Chris', 'Jones', '37', '07/19/86', 'M', '5557891234');
 INSERT INTO PERSON 
-VALUES ('513970624', 'Alyssa', 'Graham', '28', '03/10/96', 'F');
+VALUES ('513970624', 'Alyssa', 'Graham', '28', '03/10/96', 'F', '5554567890');
 INSERT INTO PERSON 
-VALUES ('208746931', 'Jack', 'Willson', '43', '08/15/80', 'M');
+VALUES ('208746931', 'Jack', 'Willson', '43', '08/15/80', 'M', '4564448512');
 INSERT INTO PERSON 
-VALUES ('583917246', 'Warren', 'Willis', '33', '08/15/90', 'M');
+VALUES ('583917246', 'Warren', 'Willis', '33', '08/15/90', 'M', '5679021124');
 INSERT INTO PERSON 
-VALUES ('102835479', 'Sara', 'Jackson', '35', '10/11/88', 'F');
+VALUES ('102835479', 'Sara', 'Jackson', '35', '10/11/88', 'F', '2358945612');
 INSERT INTO PERSON 
-VALUES ('726591038', 'Daniel', 'Jones', '47', '11/18/76', 'M');
+VALUES ('726591038', 'Daniel', 'Jones', '47', '11/18/76', 'M', '8754298643');
 INSERT INTO PERSON 
-VALUES ('349802615', 'Emma', 'Johnson', '26', '02/08/94', 'F');
+VALUES ('349802615', 'Emma', 'Johnson', '26', '02/08/94', 'F', '9523657542');
 INSERT INTO PERSON 
-VALUES ('914267583', 'Michael', 'Brown', '49', '03/02/75', 'M');
+VALUES ('914267583', 'Michael', 'Brown', '49', '03/02/75', 'M', '2134578964');
 
 INSERT INTO EMPLOYEE
 VALUES ('485612', '845632190', '48.00', '40', NULL);
