@@ -8,7 +8,8 @@ f_name varchar(20) not null,
 l_name varchar(20) not null, 
 age int(3), 
 dob varchar(12), 
-gender varchar(1));
+gender varchar(1)),
+phone int(10);
 
 create table EMPLOYEE(
 emp_id int(6) not null primary key auto_increment,
