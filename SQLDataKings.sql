@@ -87,9 +87,9 @@ create table GO_TO(
 doc_id int(6),
 nurse_id int(6),
 app_id int(6),
+p_id int(6),
 constraint doc_id_goTo foreign key(doc_id) references DOCTOR(doc_id),
 constraint nurse_id_goTo foreign key(nurse_id) references NURSE(nurse_id),
 constraint app_id_goTo foreign key(app_id) references APPOINTMENTS(app_id),
+constraint p_id_goTo foreign key(p_id) references PATIENT(p_id),
 diagnosis varchar(200));
-
-select * from employee;
